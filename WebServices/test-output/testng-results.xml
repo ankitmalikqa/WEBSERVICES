@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2489" started-at="2017-07-13T13:15:34Z" finished-at="2017-07-13T13:15:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2489" started-at="2017-07-13T13:15:34Z" finished-at="2017-07-13T13:15:37Z">
+      <class name="com.qait.WebServices.BoardTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qait.WebServices.BoardTest@4cc0edeb]" name="init" is-config="true" duration-ms="8" started-at="2017-07-13T18:45:34Z" finished-at="2017-07-13T18:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="check_for_delete_player()[pri:0, instance:com.qait.WebServices.BoardTest@4cc0edeb]" name="check_for_delete_player" duration-ms="2269" started-at="2017-07-13T18:45:34Z" finished-at="2017-07-13T18:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_for_delete_player -->
+        <test-method status="PASS" signature="check_if_there_are_4_players()[pri:0, instance:com.qait.WebServices.BoardTest@4cc0edeb]" name="check_if_there_are_4_players" duration-ms="92" started-at="2017-07-13T18:45:37Z" finished-at="2017-07-13T18:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_if_there_are_4_players -->
+        <test-method status="PASS" signature="check_status_code()[pri:0, instance:com.qait.WebServices.BoardTest@4cc0edeb]" name="check_status_code" duration-ms="94" started-at="2017-07-13T18:45:37Z" finished-at="2017-07-13T18:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_status_code -->
+      </class> <!-- com.qait.WebServices.BoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
